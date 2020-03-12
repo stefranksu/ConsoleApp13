@@ -9,7 +9,7 @@ namespace ConsoleApp13
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("V1");
+            Console.WriteLine("V1.1");
         }
     }
 }
